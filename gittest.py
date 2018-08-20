@@ -1,2 +1,2 @@
 # sample file
-# This line added in 2nd clone folder.
+# This line added in 1st clone folder (conflict).
