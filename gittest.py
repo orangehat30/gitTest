@@ -8,6 +8,6 @@
 
 # Sports section here
 
-# 1
-# 2
-# 3
+# soccer
+# basketball
+# baseball
